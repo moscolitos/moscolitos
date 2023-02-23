@@ -2,7 +2,7 @@
 - 👀 I’m interested in I transforming DATA into tangible & valuable insights by analyzing information, building data pipelines, automating the boring stuff, creating dashboards, communicating outcomes and collaborate on data products devlopement.
 - 🌱 I’m currently learning Solidity and Scala
 - 💞️ I’m looking to collaborate with poeple who believe that passion is the motion of beautiful work
-- 📫 How to reach me ...
+- 📫 How to reach me: redouanechafi01@gmail.com
 
 <!--START_SECTION:programming  languages-->
 Language and Tools :
@@ -21,4 +21,4 @@ Language and Tools :
 <!--END_SECTION:programming  languages-->
 
 
-Connect with me :
+Connect with me : https://fr.linkedin.com/in/redouane-chafi
